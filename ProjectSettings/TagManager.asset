@@ -41,9 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: New Layer 1
-    uniqueID: 553990719
+  - name: background
+    uniqueID: 2132647881
     locked: 0
-  - name: New Layer 2
-    uniqueID: 268943025
+  - name: platform
+    uniqueID: 338576721
+    locked: 0
+  - name: scenery
+    uniqueID: 654915111
+    locked: 0
+  - name: figure
+    uniqueID: 735233469
     locked: 0

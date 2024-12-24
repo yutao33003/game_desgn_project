@@ -6,54 +6,45 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/question0.unity
-    guid: 5d1d6aeba60315445b42b35c5e4f08b0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/continue0.unity
-    guid: 2a4151e8a0c5771449038362147b6372
+    path: Assets/Scenes/Level5_plot.unity
+    guid: 5d2b6c3d5e107f54cb1a91592e8896f3
   - enabled: 1
-    path: Assets/Scenes/dead0.unity
-    guid: 10877fd8187e0f64ba9be25d93661826
+    path: Assets/Scenes/Level5_plot2.unity
+    guid: c53afd5d1484acb40879823d1ffcc576
   - enabled: 1
-    path: Assets/Scenes/question1.unity
-    guid: 33cc23b71ebec9f499a2a05c08a71433
+    path: Assets/Scenes/FailScene.unity
+    guid: 001ec3e746436694da2439327a515d8d
   - enabled: 1
-    path: Assets/Scenes/dead1.unity
-    guid: 66b6247286a01f24084c639ef1c877bd
+    path: Assets/Scenes/FailScene 1.unity
+    guid: 1f1dda84a2c09284f922667e76fc97e0
   - enabled: 1
-    path: Assets/Scenes/question2.unity
-    guid: e342c20f7ec5b0849bf18ce489731ff5
+    path: Assets/Scenes/FailScene 2.unity
+    guid: 100acdca0662349468c8b31f876f5cc4
   - enabled: 1
-    path: Assets/Scenes/continue2.unity
-    guid: b4b41c6e05ce567469358e6d257a79b5
+    path: Assets/Scenes/SucessScene.unity
+    guid: 21d1910e3e002ac468f2db049630dffd
   - enabled: 1
-    path: Assets/Scenes/dead2-1.unity
-    guid: 3644e10e32ad52c4c8e9b467731cfeb1
+    path: Assets/Scenes/Level6_start.unity
+    guid: cc87aa82a3417bc41be2464efea56484
   - enabled: 1
-    path: Assets/Scenes/dead2-2.unity
-    guid: 6ac7c432e0d150341856b18db806a847
+    path: Assets/Scenes/Level6_plot.unity
+    guid: aad377bb0543d8b4e94dc49d9252494a
   - enabled: 1
-    path: Assets/Scenes/question3-1.unity
-    guid: 2cb5be49bc229ab4bad1590a888fb565
+    path: Assets/Scenes/Level6_sectionA.unity
+    guid: 8c4bf7e02a468a2429b5e0afdc2c5614
   - enabled: 1
-    path: Assets/Scenes/continue3-1.unity
-    guid: 90abc3d5c96c8714b91a453f39cf46bc
+    path: Assets/Scenes/Level6_sectionB.unity
+    guid: 1345e973719091840a6c6737a2e97102
   - enabled: 1
-    path: Assets/Scenes/dead3-1.unity
-    guid: 3a4bbae6e89a7744396c1a03ba33a8d1
+    path: Assets/Scenes/Level6_sectionC.unity
+    guid: 310f4c14fa09f524d89c9f7314f979ac
   - enabled: 1
-    path: Assets/Scenes/question3-2.unity
-    guid: bb25c2b33442ed54e989ec3e0f2195f8
+    path: Assets/Scenes/sucess.unity
+    guid: 150101eed1b524942ae4c113e176d1dd
   - enabled: 1
-    path: Assets/Scenes/dead3-2.unity
-    guid: 973a82d10a4b5b14f937822f8cfeaea4
-  - enabled: 1
-    path: Assets/Scenes/question4.unity
-    guid: ec68464636feaa34ab3fd4e78b62561a
-  - enabled: 1
-    path: Assets/Scenes/continue4.unity
-    guid: ffa906de976a8894babe6023fecc547b
-  - enabled: 1
-    path: Assets/Scenes/dead4.unity
-    guid: 7a5c519e56889c540949c25b5553827d
+    path: Assets/Scenes/fail.unity
+    guid: b92748db41f61f34190ec2a0b4807776
   m_configObjects: {}
