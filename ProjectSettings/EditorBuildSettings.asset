@@ -8,4 +8,43 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level5_plot.unity
+    guid: 5d2b6c3d5e107f54cb1a91592e8896f3
+  - enabled: 1
+    path: Assets/Scenes/Level5_plot2.unity
+    guid: c53afd5d1484acb40879823d1ffcc576
+  - enabled: 1
+    path: Assets/Scenes/FailScene.unity
+    guid: 001ec3e746436694da2439327a515d8d
+  - enabled: 1
+    path: Assets/Scenes/FailScene 1.unity
+    guid: 1f1dda84a2c09284f922667e76fc97e0
+  - enabled: 1
+    path: Assets/Scenes/FailScene 2.unity
+    guid: 100acdca0662349468c8b31f876f5cc4
+  - enabled: 1
+    path: Assets/Scenes/SucessScene.unity
+    guid: 21d1910e3e002ac468f2db049630dffd
+  - enabled: 1
+    path: Assets/Scenes/Level6_start.unity
+    guid: cc87aa82a3417bc41be2464efea56484
+  - enabled: 1
+    path: Assets/Scenes/Level6_plot.unity
+    guid: aad377bb0543d8b4e94dc49d9252494a
+  - enabled: 1
+    path: Assets/Scenes/Level6_sectionA.unity
+    guid: 8c4bf7e02a468a2429b5e0afdc2c5614
+  - enabled: 1
+    path: Assets/Scenes/Level6_sectionB.unity
+    guid: 1345e973719091840a6c6737a2e97102
+  - enabled: 1
+    path: Assets/Scenes/Level6_sectionC.unity
+    guid: 310f4c14fa09f524d89c9f7314f979ac
+  - enabled: 1
+    path: Assets/Scenes/sucess.unity
+    guid: 150101eed1b524942ae4c113e176d1dd
+  - enabled: 1
+    path: Assets/Scenes/fail.unity
+    guid: b92748db41f61f34190ec2a0b4807776
   m_configObjects: {}
