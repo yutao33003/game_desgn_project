@@ -6,6 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/StartScene.unity
+    guid: 9462396c50c4c4882b600677ee9e2771
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 395f19ba720694b8ea9cf1e6dd3293c3
+  - enabled: 1
+    path: Assets/Scenes/BFS.unity
+    guid: a1661aef3616e4d299daa059d90aef77
+  - enabled: 1
+    path: Assets/Scenes/DFS.unity
+    guid: 22ea5b39202dc4fd58ed4c74698eef4c
+  - enabled: 1
+    path: Assets/Scenes/QA.unity
+    guid: 103df04941bed4660858c937014b4d97
+  - enabled: 1
+    path: Assets/Scenes/QA_Q.unity
+    guid: ccc7376f5b7fe423b9a80e2c743bbf7e
+  - enabled: 1
+    path: Assets/Scenes/Ans_BFS.unity
+    guid: ddfc58ba9f5e74dc1a85af765e3526f0
+  - enabled: 1
+    path: Assets/Scenes/Ans_DFS.unity
+    guid: e3dee5366928f4692aca27ae85fe5a05
+  - enabled: 1
+    path: Assets/Scenes/Game_Continue.unity
+    guid: 722bc1f4e442a45c784d0d394128bd4e
+  - enabled: 1
+    path: Assets/Scenes/Game_over.unity
+    guid: 54bff59e11eea4044a141116eaf627ee
   m_configObjects: {}
