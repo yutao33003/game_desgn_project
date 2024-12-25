@@ -1,10 +1,10 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 
 namespace TMPro.Examples
 {
-
+    
     public class TeleType : MonoBehaviour
     {
 
@@ -39,6 +39,8 @@ namespace TMPro.Examples
             //    gameObject.GetComponent<RectTransform>().sizeDelta = new Vector2(500, 300);
             //    m_textMeshPro.fontSize = 48;
             //}
+
+
         }
 
 
