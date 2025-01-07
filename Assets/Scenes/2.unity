@@ -178,7 +178,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -575334373
-  m_SortingLayer: 2
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 87868d82d1f85b94b8449cf83a251a2a, type: 3}
   m_Color: {r: 0.6981132, g: 0.6981132, b: 0.6981132, a: 1}
@@ -200,8 +200,8 @@ Transform:
   m_GameObject: {fileID: 314823732}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0122, y: -1.2124, z: 0}
-  m_LocalScale: {x: 2.8193932, y: 3.653184, z: 0.8183012}
+  m_LocalPosition: {x: -0.0881, y: -1.8511, z: 0}
+  m_LocalScale: {x: 3.139034, y: 4.0330915, z: 0.8183012}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -240,8 +240,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 145, y: -138}
-  m_SizeDelta: {x: 1867.6111, y: 971.033}
+  m_AnchoredPosition: {x: 19.6689, y: -7.1712}
+  m_SizeDelta: {x: 717.3838, y: 310.8239}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &632947409
 MonoBehaviour:
@@ -265,10 +265,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 80
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 1
+    m_MinSize: 0
     m_MaxSize: 100
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -277,7 +277,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 2
   m_Text: "\u5230\u5B78\u6821\u4E86!\n\u4E0B\u8ECA\u5F8C\uFF0C\u809A\u5B50\u5495\u5695\u5495\u5695\u5730\u53EB\u4E86\u8D77\u4F86~\n\u8EAB\u70BA\u5C31\u7B97\u7FF9\u8AB2\u4E5F\u8981\u8CB7\u65E9\u9910\u5403\u7684\u4F60\u7ADF\u7136\u6C92\u5403\u6771\u897F~
-    \u65BC\u662F\u4F60\u5230\u4E86\u5168\u5BB6\u8CB7\u65E9\u9910\uFF0C\u537B\u767C\u73FE\u524D\u9762\u5927\u6392\u9577\u9F8DQQ\n\n\n"
+    \n\u65BC\u662F\u4F60\u5230\u4E86\u5168\u5BB6\u8CB7\u65E9\u9910\uFF0C\u537B\u767C\u73FE\u524D\u9762\u5927\u6392\u9577\u9F8DQQ\n\n\n"
 --- !u!222 &632947410
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -416,17 +416,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1302253182}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: 0.004380969, w: 0.99999046}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 946698902}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0.502}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 934, y: -602}
-  m_SizeDelta: {x: 160, y: 142.2885}
+  m_AnchoredPosition: {x: 312, y: -146}
+  m_SizeDelta: {x: 82.8695, y: 73.5645}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1302253184
 MonoBehaviour:
